@@ -1,0 +1,21 @@
+<html>
+   <head>
+      <title> Mijn eerste website</title>
+   </head>
+   
+
+   <body bgcolor="cyan" text="black">
+        <h1>Wilde dieren</h1>
+        <h2>Een beetje kleinere titel </h2>
+        <h3>Een nog een beetje kleinere titel </h3>
+        <p> Eerste <a href= "http://www.speeleiland.nl">paragraaf</a> van onze website </p>
+        <img src="images/27de14a2ac453968c079671df61a78ba4010ce49.jpeg" height="300" width="400" align="right">
+<ol>
+  <li><a href="https://www.google.be/search?biw=718&bih=774&tbm=isch&sa=1&ei=YhqRW-fWNYr4kwXymIvAAg&q=zebra&oq=zebra&gs_l=img.3..0i67k1j0j0i67k1j0l3j0i67k1j0l3.135399.136908.0.137186.9.6.2.1.1.0.74.360.6.6.0....0...1c.1.64.img..0.9.375...0i30k1.0.98SRN0tEYto#imgrc=utGPCxzkB2YvWM:">zebra</a></li>
+  <li><a href="https://www.google.be/search?biw=718&bih=774&tbm=isch&sa=1&ei=7BqRW8bkHY2ZsAf37bCwAw&q=aap&oq=aap&gs_l=img.3..0i67k1j0l9.848052.848562.0.848759.3.3.0.0.0.0.61.153.3.3.0....0...1c.1.64.img..0.3.153....0.ew_lGNbRHPM#imgrc=0EpWf6zKe8pQNM:">aap</a></li>
+  <li><a href="https://www.google.be/search?biw=718&bih=774&tbm=isch&sa=1&ei=PR6RW9TxKsnjsAfbip3AAw&q=olifant&oq=olifant&gs_l=img.3..0i67k1j0l3j0i67k1j0l5.73713.75821.0.75948.11.5.3.3.3.0.122.391.3j2.5.0....0...1c.1.64.img..0.11.419...0i10i19k1j0i19k1j0i5i30i19k1.0.dt83bQMkAJM#imgrc=IUdZ0X5lXBdb5M:">olifant</a></li>
+</ol>   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lsprnOxpFng" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
